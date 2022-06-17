@@ -1,0 +1,34 @@
+.caixa{
+  border-top: 0.5em solid #333;
+  padding: 2em 0em;
+}
+
+.vantagens {
+  display: flex;
+  justify-content: center;
+  color: white;
+  padding: 5em 0em;
+}
+
+.vantagem-texto {
+font-size: 1.5em;
+padding: 15px 0px;
+font-weight: bolder;
+}
+
+.container-interno {
+  width: 40%;
+  padding: 1em;
+}
+
+.imagem-vantagens{
+  width: 50%;
+}
+
+.titulovantagem {
+  font-weight:900;
+  font-size: 3em;
+  display: inline-block;
+  padding-bottom: 10px;
+}
+

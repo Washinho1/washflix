@@ -1,0 +1,60 @@
+.main-cont {
+  color: white;
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+  margin-top: 9em;
+}
+
+h2 {
+  font-size: 3em;
+  font-weight: bold;
+  color: white;
+  text-align: center;
+}
+
+.chamada-um {
+  font-size: 1.5em;
+  padding: 1em;
+  font-weight: 500;
+}
+
+.chamada-dois {
+  font-weight: bolder;
+  font-size: 1em;
+  letter-spacing: 0.1em;
+  padding: 1em;
+  text-align: center;
+  color: white;
+
+}
+
+.email-pessoa {
+  padding: 15px;
+  display: flex;
+  align-items: center;
+  justify-content: center ;
+}
+
+#contato {
+  width: 35%;
+  height: 1.5em;
+  font-size:1.5em ;
+  padding: 0.5em;
+}
+
+#botao-contato {
+  width: 15%;
+  background-color: #e50914;
+  color: white;
+  font-size: 1.5em;
+  font-weight: 100;
+  height: 2.6em;
+  padding: 0.5em;
+  font-weight: bolder;
+  border: none;
+  cursor: pointer;
+}
+
+#botao-contato:active {
+  background-color: #af0710;
+}

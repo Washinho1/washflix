@@ -1,0 +1,42 @@
+ul {
+  padding: 3em 0 0 0;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.frequentes {
+  color: white;
+  padding: 0.8em 2.2em;
+  margin: 10px;
+  background-color: rgb(70, 70, 70);
+  width: 50%;
+  font-weight: 400;
+  font-size: 1.5em;
+  cursor: pointer;
+}
+
+.fimde {
+  width: 60vw;
+}
+
+.click {
+  color: grey;
+  padding: 1.5em 1.5em;
+}
+
+.footer-links {
+  display: flex;
+  flex-wrap: wrap;
+  text-align: justify;
+}
+
+.foot-link {
+  padding: 1em 1em;
+  color: grey;
+  text-decoration: none;
+}
+
+.foot-link:hover {
+  text-decoration: underline;
+}

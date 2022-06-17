@@ -2,6 +2,7 @@
 pagina clone da pagina https://www.netflix.com/br/ tive problemas com a fonte e não utilizei javascript e ainda nao esta responsivo para celulares pois tenho que focar em outro projeto mas fiquei feliz com o resultado, achei que teve um grande avanço entre o meu ultimo processo
 
 
+link do git para ver o site: https://washinho1.github.io/washflix/
 
 ![imagem1](https://user-images.githubusercontent.com/93236829/174343814-17d42ec4-683c-48e8-a426-c5959d14ed05.PNG)
 ![imagem 2](https://user-images.githubusercontent.com/93236829/174343802-0eb64c99-738f-4f83-84eb-5c9ba13072a1.PNG)
